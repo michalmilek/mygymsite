@@ -1,7 +1,7 @@
 
 Simple gym site
 
-Just a little site, I was trying to make it look aesthethic. Results below:
+Just a little site, I was trying to make it look aesthethic. I didn't include all sections so as not to upload too many photos. Results below:
 
 
 
