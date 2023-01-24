@@ -1,0 +1,19 @@
+import React from "react";
+
+type Props = {};
+
+const PriceList = (props: Props) => {
+  return (
+    <div className="bg-primary2 flex flex-col items-center justify-center py-16">
+      <h1 className="uppercase text-7xl font-raleway text-white">cennik</h1>
+      <ul className="mt-20 text-white text-xl">
+        <li>
+          Lorem ipsum dolor sit, amet consectetur adipisicing elit:
+          <span>$10</span>
+        </li>
+      </ul>
+    </div>
+  );
+};
+
+export default PriceList;
